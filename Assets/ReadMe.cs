@@ -25,3 +25,5 @@
 // all production and building creating buttons are in a panel which player can scroll infinitely.
 
 // preparing this project took like 2 days in my tide schedule. Expecting your understanding about little mistakes :).
+// Video of the game play : https://drive.google.com/file/d/1MgZ036IFo7CjKgP3IRM6vPNSnpZCvlKs/view
+// Trello link of the project: https://trello.com/b/bDtjkKVG/ageofpanteon
